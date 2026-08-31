@@ -91,20 +91,11 @@ The project answers 25 analytical questions covering:
 - Fuel type shows differences in average depreciation.
 - Separate analysis of cars and two-wheelers helps identify differences in their pricing and resale patterns.
 
-## Project Structure
-
-```text
-car-market-trends-analysis/
-│
-├── car_market_trends.ipynb
-│
-├── Car_Data/
-│   └── car_data.csv
-│
-└── README.md
-
-## Connect With Me
+##Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/akankshamishra2601/
 
 Email: akankshamishra2601@gmail.com
+
+
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
