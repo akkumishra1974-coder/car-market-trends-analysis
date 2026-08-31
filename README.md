@@ -102,3 +102,9 @@ car-market-trends-analysis/
 │   └── car_data.csv
 │
 └── README.md
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/akankshamishra2601/
+
+Email: akankshamishra2601@gmail.com
